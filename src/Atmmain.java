@@ -71,7 +71,6 @@ public class Atmmain {
 
         }
 
-
     }
 
     private static void login_operate(ArrayList<Account> accounts,Account login_accout,Scanner input){
