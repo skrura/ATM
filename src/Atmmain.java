@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Atmmain {
     //入口类
     public static void main(String[] args) {
-        //add yy
+        //add dev01
         Scanner input = new Scanner(System.in);
         ArrayList<Account> accounts = new ArrayList<>();
         while(true) {
